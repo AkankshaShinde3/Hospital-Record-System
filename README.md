@@ -27,8 +27,9 @@ This project is a Blockchain-based Healthcare Management System developed using 
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/your-username/blockchain-healthcare-system.git
-2. **Install Required Packages Ensure you have Python 3 installed. This program uses Tkinter and hashlib, which are included with standard Python installations.
+2. **Install Required Packages**
+    Ensure you have Python 3 installed. This program uses Tkinter and hashlib, which are included with standard Python installations.
 
-3. **Run the Application
+4. **Run the Application**
    ```bash
      python main.py
